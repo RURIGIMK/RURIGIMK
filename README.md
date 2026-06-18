@@ -5,10 +5,10 @@
   Hi there, I'm Rurigi M. Kariuki 👋
 </h1>
 
-I'm a full-stack developer based in Nairobi, Kenya, who enjoys turning messy problems into clean, working software. I work across the stack — from React interfaces to Java and Python backends — and I'm especially drawn to projects where good architecture and good UX have to coexist. I care about writing code that's not just functional, but easy for the next person (often future me) to read and extend.
+I'm a Full Stack Developer based in Nairobi, Kenya, who enjoys turning messy problems into clean, working software. I work across the stack, from React interfaces to Java and Python backends and I'm especially drawn to projects where good architecture and good UX have to coexist. I care about writing code that's not just functional, but easy for the next person (often future me) to read and extend.
 
 
-🔭 Current Focus: Actively building and shipping new projects, sharpening my skills across my core stack, and open to full-stack engineering opportunities
+🔭 Current Focus: Actively building and shipping new projects, sharpening my skills across my core stack, and open to more Full Stack Engineering, AI/ML and Devops opportunities
 🌱 Learning & Exploration: Cloud & DevOps (AWS, Docker, Kubernetes), AI/ML integration, mobile development, and software engineering fundamentals more broadly
 ⚡ Core Interests: Full-stack web development, cloud infrastructure, and building practical AI-powered applications
 
