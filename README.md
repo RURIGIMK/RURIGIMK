@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Developer+%7C+Building+Elegant%2C+User-Centered+Solutions&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
-#Hi there, I'm Rurigi M. Kariuki 👋
+<h1 align="center" style="font-size: 48px; font-weight: 900; color: #67e8f9;">
+  Hi there, I'm Rurigi M. Kariuki 👋
+</h1>
 
 I'm a full-stack developer based in Nairobi, Kenya, who enjoys turning messy problems into clean, working software. I work across the stack — from React interfaces to Java and Python backends — and I'm especially drawn to projects where good architecture and good UX have to coexist. I care about writing code that's not just functional, but easy for the next person (often future me) to read and extend.
 
