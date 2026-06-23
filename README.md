@@ -39,7 +39,7 @@ GitHub Stats
 Connect With Me
 
 
-💼 Professional Network: rurigi.lovable.app
+💼 Professional Network: https://rurigi.lovable.app
 📧 Direct Contact: rurigimk@gmail.com
 
 
