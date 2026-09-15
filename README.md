@@ -28,24 +28,24 @@ A Flutter based application exploring mobile workflows, authentication, Firebase
 
 **Stack:** Flutter, Dart, Firebase, Firestore, Firebase AI, SQLite
 
-urlView RigiFlowhttps://github.com/RURIGIMK/RigiFlow
+[View RigiFlow](https://github.com/RURIGIMK/RigiFlow)
 
 ### Custom Load Balancer
 A distributed systems implementation using consistent hashing, virtual nodes, Docker based service replicas, health checks, dynamic scaling, failure recovery, and performance experiments.
 
 **Stack:** Python, Flask, Docker, consistent hashing
 
-urlView Load Balancerhttps://github.com/RURIGIMK/LOAD-BALANCER
+[View Load Balancer](https://github.com/RURIGIMK/LOAD-BALANCER)
 
 ### Global Tech Pulse
 A web project focused on presenting technology information through a structured user interface and interactive experience.
 
-urlView Global Tech Pulsehttps://github.com/RURIGIMK/Global-Tech-Pulse
+[View Global Tech Pulse](https://github.com/RURIGIMK/Global-Tech-Pulse)
 
 ### Bank of Flatiron
 A React based application for working with financial transaction data and building an interactive user interface around it.
 
-urlView Bank of Flatironhttps://github.com/RURIGIMK/Bank-of-Flatiron
+[View Bank of Flatiron](https://github.com/RURIGIMK/Bank-of-Flatiron)
 
 ## Technical Stack
 
