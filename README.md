@@ -1,48 +1,76 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack+Developer+%7C+Building+Elegant%2C+User-Centered+Solutions&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
-</p>
-<h1 align="center" style="font-size: 48px; font-weight: 900; color: #67e8f9;">
-  Hi there, I'm Rurigi M. Kariuki 👋
-</h1>
+# Rurigi Maina Kariuki
 
-I'm a Full Stack Developer based in Nairobi, Kenya, who enjoys turning messy problems into clean, working software. I work across the stack, from React interfaces to Java and Python backends and I'm especially drawn to projects where good architecture and good UX have to coexist. I care about writing code that's not just functional, but easy for the next person (often future me) to read and extend.
+**Full Stack Developer | Systems & Data | Automation | Product Engineering**
 
+I build practical software for real operational problems, with a focus on full stack applications, enterprise systems, data workflows, and automation. I enjoy taking a problem from requirements and system design through implementation, testing, and deployment.
 
-🔭 Current Focus: Actively building and shipping new projects, sharpening my skills across my core stack, and open to more Full Stack Engineering, AI/ML and Devops opportunities
-🌱 Learning & Exploration: Cloud & DevOps (AWS, Docker, Kubernetes), AI/ML integration, mobile development, and software engineering fundamentals more broadly
-⚡ Core Interests: Full-stack web development, cloud infrastructure, and building practical AI-powered applications
+Based in Nairobi, Kenya.
 
+## What I Build
 
+- **Business applications** with role based workflows, dashboards, reporting, and data management
+- **Full stack systems** across React, JavaScript, Python, Java, SQL, and cloud services
+- **Systems and infrastructure projects** involving distributed systems, Docker, APIs, and fault tolerance
+- **Data and automation workflows** for cleaning, validation, reporting, and operational processes
+- **Mobile applications** with Flutter and Firebase
 
-Technical Ecosystem
+## Selected Work
 
-Core Competencies & Core Stack
+### Lisa Laundromat
+A laundromat operations platform focused on job tracking, customer records, expenses, reporting, staff administration, and owner dashboards.
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+**Stack:** React, Vite, Supabase, Tailwind CSS, Recharts
 
-Tooling, Infrastructure & Ecosystem
+> Private repository. Product is actively being developed.
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+### RigiFlow
+A Flutter based application exploring mobile workflows, authentication, Firebase services, local persistence, notifications, and AI enabled features.
 
+**Stack:** Flutter, Dart, Firebase, Firestore, Firebase AI, SQLite
 
-GitHub Stats
+urlView RigiFlowhttps://github.com/RURIGIMK/RigiFlow
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RURIGIMK&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RURIGIMK&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RURIGIMK&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+### Custom Load Balancer
+A distributed systems implementation using consistent hashing, virtual nodes, Docker based service replicas, health checks, dynamic scaling, failure recovery, and performance experiments.
 
-Connect With Me
+**Stack:** Python, Flask, Docker, consistent hashing
 
+urlView Load Balancerhttps://github.com/RURIGIMK/LOAD-BALANCER
 
-💼 Professional Network: https://rurigi.lovable.app
-📧 Direct Contact: rurigimk@gmail.com
+### Global Tech Pulse
+A web project focused on presenting technology information through a structured user interface and interactive experience.
 
+urlView Global Tech Pulsehttps://github.com/RURIGIMK/Global-Tech-Pulse
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
-</p>
+### Bank of Flatiron
+A React based application for working with financial transaction data and building an interactive user interface around it.
+
+urlView Bank of Flatironhttps://github.com/RURIGIMK/Bank-of-Flatiron
+
+## Technical Stack
+
+**Languages**  JavaScript · Python · Java · Dart · SQL · C++
+
+**Frontend**  React · Vite · Tailwind CSS · HTML · CSS
+
+**Backend**  Node.js · Express · Flask · Spring Boot
+
+**Data**  PostgreSQL · Supabase · Firebase / Firestore · SQLAlchemy
+
+**Infrastructure**  Docker · Git · GitHub · REST APIs
+
+**Mobile**  Flutter · Firebase
+
+## Engineering Interests
+
+Distributed systems · Enterprise applications · Data engineering · Automation · Cloud and DevOps · AI enabled applications · Software architecture
+
+## Currently Improving
+
+I am continuing to deepen my skills in production software engineering, cloud infrastructure, testing, system design, and AI integration while building software that solves concrete problems.
+
+## Connect
+
+- Portfolio: https://rurigi.lovable.app
+- Email: rurigimk@gmail.com
+- GitHub: https://github.com/RURIGIMK
