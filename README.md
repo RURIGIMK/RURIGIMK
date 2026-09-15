@@ -1,76 +1,91 @@
 # Rurigi Maina Kariuki
 
-**Full Stack Developer | Systems & Data | Automation | Product Engineering**
+### Full Stack Developer · Systems & Data · Automation · Product Engineering
 
-I build practical software for real operational problems, with a focus on full stack applications, enterprise systems, data workflows, and automation. I enjoy taking a problem from requirements and system design through implementation, testing, and deployment.
+I build software around real operational problems. My work spans full stack web applications, mobile systems, enterprise workflows, data processing, automation, and distributed systems.
 
-Based in Nairobi, Kenya.
+I enjoy working across the full engineering lifecycle: understanding the problem, designing the system, building the application, working with data and APIs, testing behaviour, and preparing software for deployment.
 
-## What I Build
+📍 Nairobi, Kenya
 
-- **Business applications** with role based workflows, dashboards, reporting, and data management
-- **Full stack systems** across React, JavaScript, Python, Java, SQL, and cloud services
-- **Systems and infrastructure projects** involving distributed systems, Docker, APIs, and fault tolerance
-- **Data and automation workflows** for cleaning, validation, reporting, and operational processes
-- **Mobile applications** with Flutter and Firebase
+## Featured Projects
 
-## Selected Work
+### 🧺 Lisa Laundromat
+**Operations management platform for laundromat businesses**
 
-### Lisa Laundromat
-A laundromat operations platform focused on job tracking, customer records, expenses, reporting, staff administration, and owner dashboards.
+A product focused on replacing fragmented manual records with a single workflow for laundry jobs, customers, expenses, staff, reporting, and business oversight.
 
-**Stack:** React, Vite, Supabase, Tailwind CSS, Recharts
+**React · Vite · Supabase · Tailwind CSS · Recharts**
 
-> Private repository. Product is actively being developed.
+_Private repository while active development continues._
 
-### RigiFlow
-A Flutter based application exploring mobile workflows, authentication, Firebase services, local persistence, notifications, and AI enabled features.
+### 📱 RigiFlow
+**Flutter mobile application exploring cloud, local, and AI enabled workflows**
 
-**Stack:** Flutter, Dart, Firebase, Firestore, Firebase AI, SQLite
+A mobile engineering project combining authentication, Firestore, Firebase App Check, Firebase AI, SQLite, device capabilities, localisation, and local application state.
 
-[View RigiFlow](https://github.com/RURIGIMK/RigiFlow)
+**Flutter · Dart · Firebase · Firestore · SQLite · Firebase AI**
 
-### Custom Load Balancer
-A distributed systems implementation using consistent hashing, virtual nodes, Docker based service replicas, health checks, dynamic scaling, failure recovery, and performance experiments.
+[View repository](https://github.com/RURIGIMK/RigiFlow)
 
-**Stack:** Python, Flask, Docker, consistent hashing
+### ⚙️ Custom Load Balancer
+**Distributed systems implementation with fault handling and dynamic scaling**
 
-[View Load Balancer](https://github.com/RURIGIMK/LOAD-BALANCER)
+A customizable HTTP load balancer built around consistent hashing and virtual nodes, with Docker based service replicas, health checks, failure recovery, dynamic scaling, and performance experiments.
 
-### Global Tech Pulse
-A web project focused on presenting technology information through a structured user interface and interactive experience.
+**Python · Flask · Docker · Consistent Hashing**
 
-[View Global Tech Pulse](https://github.com/RURIGIMK/Global-Tech-Pulse)
+[View repository](https://github.com/RURIGIMK/LOAD-BALANCER)
 
-### Bank of Flatiron
-A React based application for working with financial transaction data and building an interactive user interface around it.
+### 🗂️ SIM Management System
+**Enterprise asset tracking, allocation, and audit system**
 
-[View Bank of Flatiron](https://github.com/RURIGIMK/Bank-of-Flatiron)
+A web based information system designed to support organizational SIM asset management, allocation workflows, tracking, and audit visibility.
 
-## Technical Stack
+[View repository](https://github.com/RURIGIMK/sim-inventory-management-system)
 
-**Languages**  JavaScript · Python · Java · Dart · SQL · C++
+### 🌍 Global Tech Pulse
+**Web application focused on technology information and interactive presentation**
 
-**Frontend**  React · Vite · Tailwind CSS · HTML · CSS
+[View repository](https://github.com/RURIGIMK/Global-Tech-Pulse)
 
-**Backend**  Node.js · Express · Flask · Spring Boot
+## Engineering Focus
 
-**Data**  PostgreSQL · Supabase · Firebase / Firestore · SQLAlchemy
+| Area | Technologies |
+| --- | --- |
+| Languages | JavaScript · Python · Java · Dart · SQL · C++ |
+| Frontend | React · Vite · Tailwind CSS · HTML · CSS |
+| Backend | Node.js · Express · Flask · Spring Boot |
+| Data | PostgreSQL · Supabase · Firebase / Firestore · SQLite · SQLAlchemy |
+| Mobile | Flutter · Dart · Firebase |
+| Infrastructure | Docker · Git · GitHub · REST APIs |
+| Interests | Distributed Systems · Enterprise Software · Automation · AI · Cloud · System Design |
 
-**Infrastructure**  Docker · Git · GitHub · REST APIs
+## How I Approach Engineering
 
-**Mobile**  Flutter · Firebase
+**Problem → Design → Build → Test → Improve → Deploy**
 
-## Engineering Interests
+I prefer projects where the technical work is tied to a concrete use case. That means thinking about data integrity, authentication and access control, maintainability, failure handling, usability, and the operational needs of the people using the system.
 
-Distributed systems · Enterprise applications · Data engineering · Automation · Cloud and DevOps · AI enabled applications · Software architecture
+## Other Work
 
-## Currently Improving
+My repositories also include projects covering:
 
-I am continuing to deepen my skills in production software engineering, cloud infrastructure, testing, system design, and AI integration while building software that solves concrete problems.
+- Financial and transaction management
+- Data driven web applications
+- Ride sharing and transport workflows
+- Blood management systems
+- Graphics and computer graphics coursework
+- Personal knowledge and RAG experiments
+- Database and SQL projects
+- React, Python, Java, and JavaScript coursework
+
+## Currently Building
+
+I am continuing to strengthen my production engineering skills through hands on work in system design, cloud infrastructure, testing, automation, data systems, and AI enabled applications.
 
 ## Connect
 
-- Portfolio: https://rurigi.lovable.app
-- Email: rurigimk@gmail.com
-- GitHub: https://github.com/RURIGIMK
+🌐 [Portfolio](https://rurigi.lovable.app)  
+📧 [Email](mailto:rurigimk@gmail.com)  
+💻 [GitHub](https://github.com/RURIGIMK)
